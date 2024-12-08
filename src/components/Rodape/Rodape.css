@@ -1,4 +1,4 @@
-.rodape {
+.rodape-site {
   background-color: #6278f7;
   background-image: url("/public/imagens/fundo.png");
   display: flex;
@@ -8,6 +8,6 @@
   color: #fff;
 }
 
-.rodape .redes-sociais img {
-    margin-right: 32px;
+.rodape-site .redes-sociais img {
+  margin-right: 32px;
 }
